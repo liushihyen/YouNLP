@@ -8,20 +8,20 @@
     "composer",
     "package"
   ],
-  "license": "Apache-2.0",
+  "homepage": "http://www.youmeb.com/",
+  "type": "library",
+  "license": "MIT",
   "authors": [
     {
       "name": "LIU SHIH YEN",
-      "email": "sean.liu@youmeb.com"
+      "email": "sean.liu@youmeb.com",
+      "homepage": "https://www.facebook.com/modeerf"
     }
   ],
-  "type": "project",
-  "version": "1.0.0",
   "require": {
     "php": ">=5.4"
   },
   "require-dev": {
-    "phpunit/phpunit": "5.2.*"
   },
   "autoload": {
     "psr-4": {
