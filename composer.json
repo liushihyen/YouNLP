@@ -1,5 +1,6 @@
 {
   "name": "youmeb/younlp",
+  "minimum-stability": "stable",
   "description": "YouMeb's NLP tools",
   "keywords": [
     "YouMeb",
