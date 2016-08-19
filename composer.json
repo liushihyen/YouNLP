@@ -18,6 +18,9 @@
       "homepage": "https://www.facebook.com/modeerf"
     }
   ],
+  "github-oauth": {
+    "github.com": "52a9ad657b6160161af63a47b8e7fe2c17d171d9"
+  },
   "require": {
     "php": ">=5.4"
   },
