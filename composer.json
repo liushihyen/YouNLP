@@ -1,0 +1,29 @@
+{
+  "name": "youmeb/younlp",
+  "description": "YouMeb's NLP tools",
+  "keywords": [
+    "YouMeb",
+    "NLP",
+    "composer",
+    "package"
+  ],
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "LIU SHIH YEN",
+      "email": "sean.liu@youmeb.com"
+    }
+  ],
+  "type": "project",
+  "require": {
+    "php": ">=5.4"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "5.2.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "YouMeb\\YouNLP\\": "src/"
+    }
+  }
+}
