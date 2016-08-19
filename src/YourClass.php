@@ -12,6 +12,6 @@ class YourClass
 {
     public function method1($param1)
     {
-        return "Hello World";
+        echo 123;
     }
 }
